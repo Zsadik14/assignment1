@@ -1,5 +1,5 @@
 .body{
-    text-align: centerS;
+    margin-left: 200px;
 }
 .header{
    
@@ -64,6 +64,12 @@ line-height: normal;
     /* width: 802.9px;
 height: 500px;
 flex-shrink: 0; */
+}
+
+#newyear24{
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 850px;
 }
 .midnight{
     background:linear-gradient(90deg,#070211, #07021100), url(../images/Vectorrr.png);
@@ -145,10 +151,10 @@ line-height: 56px;
     margin-top:0;
     
 }
-.coming-soon{
-
+.coming-soon{   
+    margin-top: 50px;
     padding-top: 150px;
-display: flex;
+    display: flex;
 
 }
 .best-offer{
@@ -156,9 +162,10 @@ display: flex;
 }
 
 #best-off{
+    margin-top: 50px;
     color: #F00;
 
-/* text-align: center; */
+
 font-family: Inter;
 font-size: 24px;
 font-style: normal;
@@ -174,8 +181,7 @@ font-weight: 900;
 line-height: normal;
 }
 #text7{
-    color: rgba(7, 2, 17, 0.60);
-
+color: rgba(7, 2, 17, 0.60);
 font-family: Inter;
 font-size: 20px;
 font-style: normal;
@@ -215,4 +221,159 @@ font-family: Inter;
 font-size: 48px;
 font-style: normal;
 font-weight: 700;
+}
+
+.portfolio{
+
+
+}
+#tbg{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+}
+#oap{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+}
+#about-p{
+    color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+}
+
+
+
+.first-row{
+  margin-bottom: 10px;  
+}
+.last-row{
+    margin-bottom: 10px;    
+}
+.items{
+    margin-right: 10px;
+}
+.letter{
+    margin-top: 100px;
+    text-align: center;
+
+}
+#subs{
+    color: #070211;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+}
+#subs-title{
+    color: rgba(7, 2, 17, 0.60);
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+}
+.letter{
+    background-color: #fbeded;
+    height: 600px;
+    width: 1400px;
+    border-radius: 20px;
+}
+#input{
+
+    height: 50px;
+    width: 300px;
+    border: none;
+    border-bottom-left-radius: 25px;
+    border-top-left-radius: 25px;
+
+}
+#Subscribe{
+    background-color: #FF0000;
+    height: 50px;
+    width: 100px;
+    border: none;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px;
+
+
+}
+.footerr{
+    
+    background-color: #070211;
+
+}
+.foot{
+    display: flex;
+    
+    justify-content: space-between;
+    padding: 50px;
+margin-right: 50px;
+margin-left: 50px;
+
+}
+
+
+.foot-text{
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+
+}
+
+.imgfix{
+    margin-top: 22px;
+    padding-right: 5px;
+    height: 30px;
+    width: 30px;
+}
+
+.icon1 , .icon2 {
+    display: flex;
+    
+
+}
+.foot-pw{
+    
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+
+.social{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.icn-social{
+
+    margin-right: 10px;
+}
+.lastc{
+    display: flex;
+    
+    justify-content: space-between;
+    color: #FFF;
+margin-top: 50px;
+padding: 50px;
+margin-right: 50px;
+margin-left: 50px;
+font-family: Inter;
+font-size: 24px;
+
+font-weight: 500;
 }
