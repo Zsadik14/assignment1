@@ -145,3 +145,74 @@ line-height: 56px;
     margin-top:0;
     
 }
+.coming-soon{
+
+    padding-top: 150px;
+display: flex;
+
+}
+.best-offer{
+    margin-right: 50px;
+}
+
+#best-off{
+    color: #F00;
+
+/* text-align: center; */
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+}
+#cs{
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+#text7{
+    color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+.ellipse{
+    margin-right: 50px;
+    justify-content: space-between;
+    border: 10px solid red;
+    height: 500px;
+    width: 500px;
+    border-radius: 100%;
+}
+#circle-img{
+    height: 450px;
+    width: 450px;
+    padding-top: 24px;
+    padding-left: 24px;
+}
+.twozero{
+    margin-top: 100px;
+    color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+    
+    
+}
+#year{
+    color: #F00;
+
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+}
